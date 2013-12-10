@@ -1,0 +1,11 @@
+broccoli
+carrot
+eggplant
+garlic
+lemon
+onion
+pepper
+pineapple
+potato
+scallion
+zucchini

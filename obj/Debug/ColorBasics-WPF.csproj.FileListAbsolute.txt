@@ -1,0 +1,33 @@
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\bin\Debug\ColorBasics-WPF.exe
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\bin\Debug\ColorBasics-WPF.pdb
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.g.resources
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.exe
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.pdb
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\bin\Debug\ironclad.dll
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\bin\Debug\cluster.dll
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\bin\Debug\fftpack_lite.dll
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\bin\Debug\integrate.dll
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\bin\Debug\lapack_lite.dll
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\bin\Debug\NumpyDotNet.dll
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\bin\Debug\_fftpack.dll
+C:\Users\Hannah Chen\Downloads\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.exe
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.pdb
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\bin\Debug\ColorBasics-WPF.exe
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\bin\Debug\ColorBasics-WPF.pdb
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.g.resources
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\ColorBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\obj\Debug\ColorBasics-WPF_Content.g.cs
+C:\Users\Hannah Chen\Documents\Visual Studio 2013\Projects\ColorBasics-WPF\bin\Debug\XnaFan.ImageComparison.dll
