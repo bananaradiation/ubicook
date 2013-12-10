@@ -126,7 +126,7 @@
                Name="buttonFind"
                Width="128"
                MouseDown="getRecipes"
-               KeyDown="getRecipes" Height="121"/>
+               KeyDown="getRecipes" Height="121" MouseEnter="buttonFind_MouseEnter" MouseLeave="buttonFind_MouseLeave"/>
         <Image Source="Images/reset_button.png"
                HorizontalAlignment="Right"
                VerticalAlignment="Center"
@@ -134,7 +134,7 @@
                Name="buttonReset"
                Width="120"
                MouseDown="ButtonResetClick"
-               KeyDown="ButtonResetClick"/>
+               KeyDown="ButtonResetClick" MouseEnter="buttonReset_MouseEnter" MouseLeave="buttonReset_MouseLeave"/>
         <Image Source="Images/cheese1.jpg" 
                Height="200" 
                Margin="622,568,-15.6,145"

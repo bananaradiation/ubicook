@@ -416,5 +416,41 @@ namespace Microsoft.Samples.Kinect.ColorBasics
             Process.Start(new ProcessStartInfo(e.Uri.AbsoluteUri));
             e.Handled = true;
         }
+
+        private void buttonFind_MouseEnter(object sender, MouseEventArgs e)
+        {
+            BitmapImage bi4 = new BitmapImage();
+            bi4.BeginInit();
+            bi4.UriSource = new Uri("Images/Get_Recipe_hover.png", UriKind.Relative);
+            bi4.EndInit();
+            buttonFind.Source = bi4;
+        }
+
+        private void buttonFind_MouseLeave(object sender, MouseEventArgs e)
+        {
+            BitmapImage bi5 = new BitmapImage();
+            bi5.BeginInit();
+            bi5.UriSource = new Uri("Images/Get_Recipe.png", UriKind.Relative);
+            bi5.EndInit();
+            buttonFind.Source = bi5;
+        }
+
+        private void buttonReset_MouseEnter(object sender, MouseEventArgs e)
+        {
+            BitmapImage bi1 = new BitmapImage();
+            bi1.BeginInit();
+            bi1.UriSource = new Uri("Images/reset_button_hover.png", UriKind.Relative);
+            bi1.EndInit();
+            buttonReset.Source = bi1;
+        }
+
+        private void buttonReset_MouseLeave(object sender, MouseEventArgs e)
+        {
+            BitmapImage bi2 = new BitmapImage();
+            bi2.BeginInit();
+            bi2.UriSource = new Uri("Images/reset_button.png", UriKind.Relative);
+            bi2.EndInit();
+            buttonReset.Source = bi2;
+        }
     }
 }
